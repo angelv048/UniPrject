@@ -22,8 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <modules>
   	<module>ProjectB</module>
+  	<module>ProjectC</module>
   </modules>
   
 </project>
