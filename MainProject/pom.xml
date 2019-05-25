@@ -26,6 +26,7 @@
   <modules>
   	<module>ProjectB</module>
   	<module>ProjectC</module>
+  	<module>ProjectD</module>
   </modules>
   
 </project>
